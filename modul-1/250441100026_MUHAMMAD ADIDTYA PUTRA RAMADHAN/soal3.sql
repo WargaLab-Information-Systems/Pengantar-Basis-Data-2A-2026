@@ -9,6 +9,3 @@ DESCRIBE transaksi_harian;
 TRUNCATE TABLE transaksi_harian;
 
 DROP TABLE transaksi_harian;
-
-
-

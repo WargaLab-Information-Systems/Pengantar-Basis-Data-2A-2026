@@ -7,7 +7,3 @@ CREATE TABLE umpan_balik (
     );
 SHOW TABLES;
 DESCRIBE umpan_balik;
-
-
-
-
