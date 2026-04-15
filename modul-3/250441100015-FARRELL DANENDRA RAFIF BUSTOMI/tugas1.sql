@@ -1,0 +1,1 @@
+SELECT * FROM `inventaris_gudang_pusat` WHERE lokasi_rak is NULL AND stok > 0 AND status_qc = "Lulus";
