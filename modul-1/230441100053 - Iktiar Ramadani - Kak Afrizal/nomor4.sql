@@ -1,0 +1,5 @@
+CREATE TABLE umpan_balik (
+id_komentar SERIAL PRIMARY KEY,
+isi_komentar TEXT NOT NULL,
+tanggal_input TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
