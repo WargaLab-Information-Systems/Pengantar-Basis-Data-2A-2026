@@ -1,0 +1,1 @@
+SELECT nama_barang, harga_satuan,status_qc FROM `inventaris_gudang_pusat` WHERE kategori!="furniture" and status_qc="lulus" ORDER by harga_satuan DESC LIMIT 3
